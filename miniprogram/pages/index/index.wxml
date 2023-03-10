@@ -1,6 +1,6 @@
 <!--index.wxml-->
 <view class="container">
   <view class="button-sp-area">
-      <button type="primary" plain="true" open-type="share">按钮1</button>
+      <button type="primary" plain="true" open-type="share">分享</button>
     </view>
 </view>
